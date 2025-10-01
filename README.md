@@ -52,18 +52,11 @@ and more...
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=multiplechuks&show_icons=true&theme=default&hide_border=true&include_all_commits=true&v=20250930)](https://github.com/multiplechuks)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=multiplechuks&bg_color=000000&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)
-
-
 <div align="center" style="background-color:black; padding:15px; border-radius:10px;">
   
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=multiplechuks&theme=radical&no-frame=true&margin-w=15)
 
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=multiplechuks&layout=compact&theme=default&v=20250930)](https://github.com/multiplechuks)
-
-![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=multiplechuks&theme=radical)
 
 ---
 
