@@ -69,8 +69,3 @@ and more...
 ---
 
 > “Building systems that matter — one line of code at a time, debugging along the way.”
-
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=multiplechuks.multiplechuks" alt="Visitor Badge" />
-</p>
