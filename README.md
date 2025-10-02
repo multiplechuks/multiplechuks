@@ -48,16 +48,13 @@ and more...
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kamdilichukwu-okolo-084037284">
+  <a href="https://www.linkedin.com/in/ezekwe-johnbosco/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://x.com/kamdi_mdev">
-    <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="mailto:kamdilichukwu2020@gmail.com">
+  <a href="mailto:multiplechuks@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://kamdidev.vercel.app">
+  <a href="https://multiplechuks.github.io/jb_portfolio">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&style=for-the-badge" />
   </a>
   <a href="https://stackoverflow.com/users/7414577/bosco">
