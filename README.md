@@ -45,21 +45,6 @@ and more...
 
 ---
 
-
-## 📊 GitHub Stats & Languages
-
-<!-- GitHub Stats (cache-bust with &v=YYYYMMDD) -->
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=multiplechuks&show_icons=true&theme=default&hide_border=true&include_all_commits=true&v=20250930)](https://github.com/multiplechuks)
-
-<div align="center" style="background-color:black; padding:15px; border-radius:10px;">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=multiplechuks&theme=radical&no-frame=true&margin-w=15)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
